@@ -17,4 +17,4 @@ TODO:
 * Dropbox integration
 * Torrent download (?)
 
-[image-1]:	https://jkn.s3-eu-central-1.amazonaws.com/Screen-Shot-2015-04-16-18-00-26/Screen-Shot-2015-04-16-18-00-26.png "Screenshot"
+[image-1]:	https://jkn.s3-eu-central-1.amazonaws.com/bmsBda/Screen-Shot-2015-04-16-20-27-03.png "Screenshot"
