@@ -7,8 +7,6 @@
   <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.96.1/css/materialize.min.css">
   <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.96.1/js/materialize.min.js"></script>
-  <script type="text/javascript" src="https://www.dropbox.com/static/api/2/dropins.js" id="dropboxjs" data-app-key="e95qd6esrv8hsq2"></script>
-
 
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:title" content="__FILENAME__">
@@ -31,11 +29,9 @@
         iframe {
         height: 80vh;
         }
-        .dropbox-saver {
-          display: none !important;
-        }
   </style>
 </head>
+
 <body>
   <nav>
     <div class="nav-wrapper container center-align">Shared by Justinas on __SHAREDATE__</div>
@@ -51,19 +47,14 @@
             <h5 class="center-align">__FILENAME__</h5>
       </footer>
 
-
 <!-- download -->
 <div class="fixed-action-btn" style="bottom: 45px; right: 24px;">
-    <a href="__PATH__" class="btn-floating btn-large red tooltipped" data-position="left" data-delay="500" data-tooltip="Download" download>
+    <a href="__PATH__" class="btn-floating waves-effect waves-circle waves-light btn-large red tooltipped" data-position="left" data-delay="500" data-tooltip="Download" download>
       <i class="large mdi-action-get-app"></i>
     </a>
     <ul>
-      <li><a href="__PREVIEWURL__" class="btn-floating blue tooltipped" data-position="left" data-delay="50" data-tooltip="Direct" ><i class="large mdi-content-link"></i></a></li>
-
-      <li><a href="__PATH__" class="btn-floating yellow darken-1 tooltipped dropbox-saver" data-position="left" data-delay="50" data-tooltip="Save to Dropbox" ><i class="large mdi-editor-format-quote"></i></a></li>
+      <li><a href="__PREVIEWURL__" class="btn-floating waves-effect waves-circle waves-light blue tooltipped " data-position="left" data-delay="50" data-tooltip="Direct" ><i class="large mdi-content-link"></i></a></li>
     </ul>
   </div>
-
-
   </body>
 </html>
