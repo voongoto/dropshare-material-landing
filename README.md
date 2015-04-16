@@ -12,10 +12,9 @@ Fell free to use, tweak & modify.
 
 
 TODO:
-* Hit Counter
 * More video files support
 * Audio player
 * Dropbox integration
 * Torrent download (?)
 
-[image-1]:	https://jkn.s3-eu-central-1.amazonaws.com/Screen-Shot-2015-04-16-17-11-32/Screen-Shot-2015-04-16-17-11-32.png "Screenshot"
+[image-1]:	https://jkn.s3-eu-central-1.amazonaws.com/Screen-Shot-2015-04-16-17-14-55/Screen-Shot-2015-04-16-17-14-55.png "Screenshot"
