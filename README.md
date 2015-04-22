@@ -19,8 +19,11 @@ Fell free to use, tweak & modify.
 
 
 ## TODO:
+* Add inline notes preview
+* Add pdf preview
 * More video formats support
 * Audio player
-* 
+* Filetype icons
+\* 
 
 [image-1]:	https://jkn.s3-eu-central-1.amazonaws.com/NcF6DS/Screen-Shot-2015-04-16-22-34-16.png "Screenshot"
